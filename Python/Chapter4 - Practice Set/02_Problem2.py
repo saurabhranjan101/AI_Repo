@@ -1,0 +1,13 @@
+F1 = int(input("Enter Marks1 - "))
+F2 = int(input("Enter Marks2 - "))
+F3 = int(input("Enter Marks3 - "))
+F4 = int(input("Enter Marks4 - "))
+F5 = int(input("Enter Marks5 - "))
+marks = []
+marks.append(F1)
+marks.append(F2)
+marks.append(F3)
+marks.append(F4)
+marks.append(F5)
+marks.sort()
+print(marks)

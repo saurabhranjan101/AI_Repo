@@ -1,0 +1,15 @@
+S1 = int(input("Enter marks of student1 - "))
+S2 = int(input("Enter marks of student2 - "))
+S3 = int(input("Enter marks of student3 - "))
+S4 = int(input("Enter marks of student4 - "))
+S5 = int(input("Enter marks of student5 - "))
+
+SS = []
+SS.append(S1)
+SS.append(S2)
+SS.append(S3)
+SS.append(S4)
+SS.append(S5)
+SS.sort()
+print(SS) 
+print(max(SS))

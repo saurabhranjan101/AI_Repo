@@ -1,0 +1,10 @@
+name = "Saurabh"
+print(name.lower())
+print(name.find("ra"))
+print(name[0])
+print(name[2])
+print(name[3])
+print(name.startswith("Sa"))
+print(name.endswith("bh"))
+print(name)
+print(len(name))

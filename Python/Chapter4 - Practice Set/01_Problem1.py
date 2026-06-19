@@ -1,0 +1,13 @@
+F1 = input("Enter Fruit1 - ")
+F2 = input("Enter Fruit2 - ")
+F3 = input("Enter Fruit3 - ")
+F4 = input("Enter Fruit4 - ")
+F5 = input("Enter Fruit5 - ")
+Fruits = []
+Fruits.insert(1, F1)
+Fruits.insert(2, F2)
+Fruits.insert(3, F3)
+Fruits.insert(4, F4)
+Fruits.insert(5, F5) 
+print(Fruits)
+print(Fruits.count("angoor"))
