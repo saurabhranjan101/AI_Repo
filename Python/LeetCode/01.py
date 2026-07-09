@@ -1,7 +1,7 @@
 '''
 num = [2,7,11,15]
 target = 9
-output = [0,1] -> Index of sum of two numbers which is equal to 9(Basically sum of 2 & 7. 2 is at 0th position & 7 is at 1st position)
+output = [0,1] -> Index of sum of two numbers which is equal to 9(Basically sum of 2 & 7 9. 2 is at 0th position & 7 is at 1st position)
 '''
 # num = [2,7,11,15]
 # target = 9
